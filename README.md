@@ -4,7 +4,7 @@
 **Author:** Dinesh Joshi  
 **License:** Licensed under the Apache License 2.0.
 
-##### Citation 
+#### Citation 
 Joshi, D. (2025). Grad_Routing: Differentiable Flow Accumulation Python Package for Hydrological Modeling (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.17763733
 
 ---
